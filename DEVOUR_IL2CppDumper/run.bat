@@ -1,0 +1,1 @@
+frida "DEVOUR.exe" -l main.ts
